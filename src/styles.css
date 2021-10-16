@@ -1,4 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
 .strike{
-  text-decoration:line-through;
+  text-decoration: line-through;
+}
+
+h1 {
+  color: #18a323;
+  text-align: center;
+  font-size: 5em;
+};
+
+#container{
+  align-content: center;
+  
+}
+
+#list-items{
+  padding: 20px;
+  border: #e43b8c 7px dashed;
+  text-align: center;
+  font-size: 2em;
 }
