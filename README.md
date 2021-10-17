@@ -1,3 +1,12 @@
+![AngularGrocery_preview](src\assets\Kal-Academy-Simple-Grocery-List.png)
+
+An extremely simple grocery reminder list made in Angular. You can add, edit, and delete items as well as strike through grocery items you have completed or added to cart.
+
+Another version of this: Restaurant Rater
+![AngularGrocery_preview](C:\Users\Lily\Workspaces\KalAcademy\AngularGrocery\src\assets\Kal-Academy-Project-Practice-2.png)
+
+
+
 # AngularGrocery
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
