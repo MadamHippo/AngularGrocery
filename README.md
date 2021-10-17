@@ -3,7 +3,6 @@
 An extremely simple grocery reminder list made in Angular. You can add, edit, and delete items as well as strike through grocery items you have completed or added to cart.
 
 Also check out Restaurant Rater -- https://github.com/MadamHippo/Restaurant-rater-app
-![AngularGrocery_preview](https://github.com/MadamHippo/AngularGrocery/blob/main/src/assets/Kal-Academy-Project-Practice-2.png)
 
 # Live Demo
 
