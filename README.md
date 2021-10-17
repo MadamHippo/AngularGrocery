@@ -5,7 +5,9 @@ An extremely simple grocery reminder list made in Angular. You can add, edit, an
 Also check out Restaurant Rater -- https://github.com/MadamHippo/Restaurant-rater-app
 ![AngularGrocery_preview](https://github.com/MadamHippo/AngularGrocery/blob/main/src/assets/Kal-Academy-Project-Practice-2.png)
 
+# Live Demo
 
+Grocery List Manager - https://www.youtube.com/watch?v=JJVS5TeC13c
 
 # AngularGrocery
 
